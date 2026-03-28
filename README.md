@@ -41,11 +41,16 @@ Ideal for:
 ---
 
 ## 📷 Screenshots
-_Add screenshots here (Homepage, Shop page, Product page, Mobile view)_
-
-Example:
-![Homepage](./screenshots/homepage.png)
-![Shop](./screenshots/shop.png)
+- Home Page
+![Homepage](./screenshot/homepage.jpg)
+- Shop Page
+![Shoppage](./screenshot/shoppage.jpg)
+- Product Page
+![productpage](./screenshot/productpage.jpg)
+- Category Page
+![Categorypage](./screenshot/categorypage.jpg)
+- Blog Page
+![Blogpage](./screenshot/blogpage.jpg)
 
 ---
 
